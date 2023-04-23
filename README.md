@@ -1,2 +1,2 @@
 # LFS
-Tools for Linux From Scratch 11.3
+Scripts for Linux From Scratch 11.3
